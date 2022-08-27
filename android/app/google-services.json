@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221993615283",
+    "firebase_url": "https://geraetepruefung-ff-liekwegen-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "geraetepruefung-ff-liekwegen",
+    "storage_bucket": "geraetepruefung-ff-liekwegen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221993615283:android:0e0db73cd17bb8b47c55c6",
+        "android_client_info": {
+          "package_name": "com.example.geraetepruefung_ff_liekwegen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221993615283-52anhgv8a1khbb9ei2o8tr2gvoulrlq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywXTwAdAVsZQdQnXeXKHMC-2sNWr_KFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221993615283-52anhgv8a1khbb9ei2o8tr2gvoulrlq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
