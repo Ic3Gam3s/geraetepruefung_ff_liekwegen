@@ -29,6 +29,7 @@ class PruefungViewDetailPageState extends State<PruefungViewDetailPage> {
     getBemerkungen();
   }
 
+
   Future<void> getFragen() async {
     List<Frage> fragenData = await getAllFragen();
 
